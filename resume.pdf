@@ -1,0 +1,14 @@
+<!-- This is a placeholder for the actual PDF file -->
+<!-- In a real implementation, you would replace this with the actual PDF file -->
+<!-- For now, this will serve as a reference to create the download functionality -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Download Placeholder</title>
+</head>
+<body>
+    <h1>Resume Download</h1>
+    <p>This is a placeholder for Akhilesh Kushwah's resume PDF file.</p>
+    <p>In a real implementation, this would be replaced with the actual PDF file from the uploaded resume.</p>
+</body>
+</html>
